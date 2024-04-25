@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 config = {
     'user': 'root',  # Replace 'root' with your MySQL username
-    'password': '1234',  # Replace 'password' with your MySQL password
+    'password': 'Nishant2580',  # Replace 'password' with your MySQL password
     'host': 'localhost',
     'database': 'todo_db',  # Make sure this database exists or create it
     'raise_on_warnings': True

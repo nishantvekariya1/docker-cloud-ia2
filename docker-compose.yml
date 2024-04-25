@@ -4,7 +4,7 @@ services:
   db:
     image: mysql:5.7
     environment:
-      MYSQL_ROOT_PASSWORD: Neet@s63
+      MYSQL_ROOT_PASSWORD: Nishant2580
       MYSQL_DATABASE: todo_db
     ports:
       - "3307:3306" 
